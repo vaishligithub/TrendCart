@@ -14,7 +14,7 @@ const Shop = () => {
      <p>You are logged in as {currentUser?.email}</p>  */}
     <Hero/>
     <Popular/>
-    <Offer/>
+    {/* <Offer/> */}
     <NewCollections/>
     <NewsLetter/>
       {/* <h1>shop</h1> */}
