@@ -10,8 +10,8 @@ const Shop = () => {
 
   return (
     <div>
-      <h1>Welcome, {currentUser?.name}</h1>
-     <p>You are logged in as {currentUser?.email}</p> 
+      {/* <h1>Welcome, {currentUser?.name}</h1>
+     <p>You are logged in as {currentUser?.email}</p>  */}
     <Hero/>
     <Popular/>
     <Offer/>
