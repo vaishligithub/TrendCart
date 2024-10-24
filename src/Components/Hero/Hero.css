@@ -51,3 +51,7 @@ display: flex;
     align-items: center;
 
 }
+.hero-right img{
+    height: 60%;
+    /* width: 100%; */
+}
